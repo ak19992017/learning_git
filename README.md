@@ -4,7 +4,7 @@ Learning github
 
 Tutorial link: https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
-Git Bash Commands:
+##Git Bash Commands:
 KIIT@CSE1805094 MINGW64 ~/desktop/myapp
 $ git init
 Initialized empty Git repository in C:/Users/KIIT/Desktop/myapp/.git/
