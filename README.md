@@ -1,5 +1,15 @@
+
+# Installing Git<br/>
+![carbon](https://user-images.githubusercontent.com/71957886/127740186-63dee530-076c-4f58-9849-d4d103c93a11.png)
+
+
+# Configuring Git<br/>
 ![carbon](https://user-images.githubusercontent.com/71957886/127730163-9817cdd6-7289-4909-b5cf-e18a1f6a4fac.png)
-#Github
+
+
+# Getting Help<br/>
+![carbon](https://user-images.githubusercontent.com/71957886/127740256-2a628297-cf12-4f44-8471-35850c8c6672.png)
+
 
 Learning github
 
