@@ -1,14 +1,24 @@
 
-# Installing Git<br/>
-![carbon](https://user-images.githubusercontent.com/71957886/127740186-63dee530-076c-4f58-9849-d4d103c93a11.png)
+
+# Check if Git is installed or not<br/>
+![carbon](https://user-images.githubusercontent.com/71957886/127985245-974e2a60-a245-4dbf-9958-6caff2d1f94a.png)
+
+
+# Install latest Git on Ubuntu
+```bash
+sudo add-apt-repository ppa:git-core/ppa
+sudo apt update
+sudo apt install git
+```
 
 
 # Configuring Git<br/>
-![carbon](https://user-images.githubusercontent.com/71957886/127730163-9817cdd6-7289-4909-b5cf-e18a1f6a4fac.png)
+![carbon](https://user-images.githubusercontent.com/71957886/127989574-47bd315e-6f76-45d5-8678-9f411f49f190.png)
 
 
 # Getting Help<br/>
-![carbon](https://user-images.githubusercontent.com/71957886/127740256-2a628297-cf12-4f44-8471-35850c8c6672.png)
+![carbon](https://user-images.githubusercontent.com/71957886/127990469-5fea9287-bc4c-4b3d-8aea-a28e96858651.png)
+
 
 
 Learning github
