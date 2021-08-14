@@ -20,6 +20,9 @@ sudo apt install git
 ![carbon](https://user-images.githubusercontent.com/71957886/127990469-5fea9287-bc4c-4b3d-8aea-a28e96858651.png)
 
 
+# Initializing a repository
+![carbon](https://user-images.githubusercontent.com/71957886/129455850-3bfa5a1b-37a0-4a1d-8404-45fa1217faac.png)
+![carbon1](https://user-images.githubusercontent.com/71957886/129455896-464ded8e-70ce-4dde-b6cb-0757ec82a581.png)
 
 Learning github
 
